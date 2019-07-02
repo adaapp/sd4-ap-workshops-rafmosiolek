@@ -1,0 +1,16 @@
+{
+  "name": "encapsulation-workshop",
+  "version": "1.0.0",
+  "description": "encapsulation workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha '**/*.test.js'",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
